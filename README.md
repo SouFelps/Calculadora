@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=Completo&color=9A00FE&style=for-the-badge&logo=ghost"/>
 
 
-<h2>Uma calculadora simples, construida em HTML</h2>
+<p>Uma ferramenta simples, construida em HTML, que você pode usar diretamente pelo seu navegador!</p>
